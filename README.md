@@ -20,7 +20,7 @@
 
 ## 🎬 Demo
 
-[![Watch Demo](https://img.youtube.com/vi/DRbK8Y0UX3M/maxresdefault.jpg)](https://www.youtube.com/watch?v=DRbK8Y0UX3M)
+[![Watch Demo](https://img.youtube.com/vi/DRbK8Y0UX3M/hqdefault.jpg)](https://www.youtube.com/watch?v=DRbK8Y0UX3M)
 
 **[▶️ Watch the Full Demo on YouTube](https://www.youtube.com/watch?v=DRbK8Y0UX3M)**
 
